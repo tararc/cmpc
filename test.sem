@@ -1,0 +1,104 @@
+D declaration
+DdF 4: keyword: INT
+DdF 4: ID: gcd
+DdF params
+DdFRrp 4: keyword: INT
+DdFRrp 4: ID: u
+DdFRrp 4: keyword: INT
+DdFRrp 4: ID: v
+DdF compound-stmt
+DdFC statement-list
+DdFCS statement
+DdFCSsI 5: keyword: IF
+DdFCSsI expression
+DdFCSsIeX additive-expression
+DdFCSsIeXA term
+DdFCSsIeXAT factor
+DdFCSsIeXATF var
+DdFCSsIeXATFv 5: ID: v
+DdFCSsIeX relop
+DdFCSsIeXo 5: symbol: EQ
+DdFCSsIeX additive-expression
+DdFCSsIeXA term
+DdFCSsIeXAT factor
+DdFCSsIeXATF 5: NUM: 0
+DdFCSsI statement
+DdFCSsIsU 5: keyword: RETURN
+DdFCSsIsU expression
+DdFCSsIsUe simple-expression
+DdFCSsIsUeX additive-expression
+DdFCSsIsUeXA term
+DdFCSsIsUeXAT factor
+DdFCSsIsUeXATF var
+DdFCSsIsUeXATFv 5: ID: u
+DdFCSsI statement
+DdFCSsIsU 6: keyword: RETURN
+DdFCSsIsU expression
+DdFCSsIsUe simple-expression
+DdFCSsIsUeX additive-expression
+DdFCSsIsUeXA term
+DdFCSsIsUeXAT factor
+DdFCSsIsUeXATFc 6: ID: gcd
+DdFCSsIsUeXATFc args
+DdFCSsIsUeXATFcGg expression
+DdFCSsIsUeXATFcGge simple-expression
+DdFCSsIsUeXATFcGgeX additive-expression
+DdFCSsIsUeXATFcGgeXA term
+DdFCSsIsUeXATFcGgeXAT factor
+DdFCSsIsUeXATFcGgeXATF var
+DdFCSsIsUeXATFcGgeXATFv 6: ID: v
+DdFCSsIsUeXATFcGg expression
+DdFCSsIsUeXATFcGge simple-expression
+DdFCSsIsUeXATFcGgeX additive-expression
+DdFCSsIsUeXATFcGgeXAa 6: symbol: MINUS
+DdFCSsIsUeXATFcGgeXAa term
+DdFCSsIsUeXATFcGgeXAaT factor
+DdFCSsIsUeXATFcGgeXAaTF var
+DdFCSsIsUeXATFcGgeXAaTFv 6: ID: u
+DdFCSsIsUeXATFcGgeXAa term
+DdFCSsIsUeXATFcGgeXAaTm 6: symbol: TIMES
+DdFCSsIsUeXATFcGgeXAaTm factor
+DdFCSsIsUeXATFcGgeXAaTmF var
+DdFCSsIsUeXATFcGgeXAaTmFv 6: ID: v
+DdFCSsIsUeXATFcGgeXAaTmm 6: symbol: DIVIDE
+DdFCSsIsUeXATFcGgeXAaTmm factor
+DdFCSsIsUeXATFcGgeXAaTmmF var
+DdFCSsIsUeXATFcGgeXAaTmmFv 6: ID: u
+DdFCSsIsUeXATFcGgeXAaTmm factor
+DdFCSsIsUeXATFcGgeXAaTmmF var
+DdFCSsIsUeXATFcGgeXAaTmmFv 6: ID: v
+D declaration
+DdF 11: keyword: VOID
+DdF 11: ID: main
+DdF params
+DdFR 11: keyword: VOID
+DdFCLV 12: keyword: INT
+DdFCLV 12: ID: x
+DdFCLV 12: keyword: INT
+DdFCLV 12: ID: y
+DdFC statement-list
+DdFCS statement
+DdFCSs expression-stmt
+DdFCSsEe var
+DdFCSsEev 13: ID: y
+DdFCSsEe 13: symbol: ASSIGN
+DdFCSsEe expression
+DdFCSsEee simple-expression
+DdFCSsEeeX additive-expression
+DdFCSsEeeXA term
+DdFCSsEeeXAT factor
+DdFCSsEeeXATFc 13: ID: gcd
+DdFCSsEeeXATFc args
+DdFCSsEeeXATFcGg expression
+DdFCSsEeeXATFcGge simple-expression
+DdFCSsEeeXATFcGgeX additive-expression
+DdFCSsEeeXATFcGgeXA term
+DdFCSsEeeXATFcGgeXAT factor
+DdFCSsEeeXATFcGgeXATF var
+DdFCSsEeeXATFcGgeXATFv 13: ID: y
+DdFCSsEeeXATFcGg expression
+DdFCSsEeeXATFcGge simple-expression
+DdFCSsEeeXATFcGgeX additive-expression
+DdFCSsEeeXATFcGgeXA term
+DdFCSsEeeXATFcGgeXAT factor
+DdFCSsEeeXATFcGgeXATF 13: NUM: 2
